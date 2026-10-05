@@ -1,0 +1,11 @@
+{
+  "name": "js-modules-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "hello": "node hello.js"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
