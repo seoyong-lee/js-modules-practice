@@ -7,8 +7,8 @@ npm으로 설치한 date-fns를 쓰고 CommonJS 코드를 ES 모듈로 바꿔 �
 
 | 구분 | 폴더 | 내용 | 권장 시간 |
 |---|---|---|---|
-| 수업 실습 | `step1_date-fns` | [실습-4] date-fns로 D-day 출력하기 | 15분 |
-| 도전 | `step2_require-to-import` | 도전 · require를 import로 바꾸기 | 12분 |
+| 수업 실습 | `step1_date-fns` | [실습-4] date-fns로 D-day 출력하기 | 13분 |
+| 도전 | `step2_require-to-import` | 도전 · require를 import로 바꾸기 | 8분 |
 
 ## [실습-4] date-fns로 D-day 출력하기
 

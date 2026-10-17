@@ -2,14 +2,14 @@
 
 import · export · default export로 코드를 여러 파일로 나눠 봅니다. 인터넷 연결 없이 실행됩니다.
 
-- 수업 시간: 수업 실습 8교시
+- 수업 시간: 수업 실습 8교시(실습-1 · 2) · 9교시(실습-3)
 - 실행: 레포 최상위 폴더에서 `node <폴더>/starter/main.js`
 
 | 구분 | 폴더 | 내용 | 권장 시간 |
 |---|---|---|---|
-| 수업 실습 | `step1_import-export` | [실습-1] import와 export | 10분 |
-| 수업 실습 | `step2_default-export` | [실습-2] default export | 8분 |
-| 수업 실습 | `step3_split-modules` | [실습-3] 모듈 분리하기 | 20분 |
+| 수업 실습 | `step1_import-export` | [실습-1] import와 export | 12분 |
+| 수업 실습 | `step2_default-export` | [실습-2] default export | 9분 |
+| 수업 실습 | `step3_split-modules` | [실습-3] 모듈 분리하기 | 18분 |
 
 ## [실습-1] import와 export
 
